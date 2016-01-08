@@ -1,0 +1,171 @@
+body
+{
+	background-color: #F4F4F4;
+	font-family: "Avenir", "Helvetica", sans-serif;
+}
+
+#harysson .image_middle
+{
+	height: 100vh;
+}
+
+#harysson h2
+{
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #E0E0E0;
+	height: 7px;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	display: flex;
+	margin: 60px 0px 40px;
+	
+}
+
+#harysson .learning
+{
+	color: #535252;
+	font-size: 20px;
+	text-align: center;
+}
+
+#harysson .startup
+{
+	margin: 50px 0 0 0;
+
+}
+
+#harysson .startup .row
+{
+	margin-bottom: 60px;
+}
+
+#harysson .startup .mdi
+{
+	margin-right: 10px;
+}
+
+#harysson .startup .mdi-laptop
+{
+	color: #FDB631;
+}
+
+#harysson .startup .mdi-keyboard-variant
+{
+	color: #8000FF;
+}
+
+#harysson .startup .mdi-source-pull
+{
+	color: #2ECC71;
+}
+
+#harysson .startup .mdi-auto-fix
+{
+	color: #E67E22;;
+}
+
+#harysson .startup .mdi-cube-outline
+{
+	color: #469AE0;
+}
+
+#harysson .startup .mdi-wallet-travel
+{
+	color: #C73333;
+}
+
+#harysson .startup h4
+{
+	color: #333333;
+	font-size: 18px;
+}
+
+#harysson .startup p
+{
+	color: #333333;
+	font-size: 16px;
+	font-weight: 100;
+}
+
+#harysson .startup p a
+{
+	text-decoration: none;
+	color: #333333;
+
+	border-bottom: 3px solid rgba(106, 216, 106, 0.6);
+	box-shadow: 0px -5px 0px rgba(106, 216, 106, 0.38) inset;
+	transition: background 0.2s ease 0s;
+	height: 20px;
+	display: inline-block;
+}
+
+#harysson h2 div
+{
+	background-color: #F4F4F4;
+	position: relative;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#harysson .teachers img
+{
+	height: 100px;
+	width: 100px;
+}
+
+
+#harysson .teachers .row div:first-child
+{
+	background-color: white;
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.07);
+	padding: 30px 50px 30px 30px;
+}
+
+#harysson .teachers .row .col-md-2
+{
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#harysson .teachers .row
+{
+	margin: 10px 0 30px 0;
+	display: flex;
+	align-items: center;
+}
+
+#harysson .teachers .row .col-md-8 h3
+{
+	color: #333333;
+	font-size: 25px;
+}
+
+#harysson .teachers .row .col-md-8 p
+{
+	color: #666666;
+	background-color: transparent;
+	font-size: 16px;
+}
+
+#harysson .assistants
+{
+	text-align: center;
+}
+
+#harysson .assistants a
+{
+	text-decoration: none;
+	color: black;
+}
+
+#harysson .assistants img
+{
+	height:80px;
+	width:80px;
+	margin-bottom: 5px;
+}

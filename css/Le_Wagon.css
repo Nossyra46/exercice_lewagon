@@ -1,0 +1,198 @@
+body{
+  background-color:#F4F4F4;
+  margin: 0 auto;
+}
+
+footer{
+  background-color:#F4F4F4;
+  margin: 0 auto;
+}
+#logo_TC {
+  height: 45px;
+  display: block;
+  margin: 0 auto;
+}
+
+.title{
+  font-size: 25px;
+  text-align: center;
+  font-family:  "Avenir","Helvetica","sans-serif";
+
+
+  }
+.celia .title strong {
+  text-transform: capitalize;
+}
+
+div.bordure{
+  border-bottom:1px solid #E5E3E3;
+  height: 17px;
+  width: 900px;
+  text-align: center;
+  margin-left: 200px;
+  margin-bottom: 40px;
+
+}
+
+blockquote{
+  background-color: #F4F4F4;
+  display: inline;
+  padding: 20px;
+  text-align: center;
+}
+
+#site_TC{
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+}
+#tiret_vert {
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 450px;
+}
+
+.tiret_vert li{
+  list-style-type: none;
+  float: left;
+  display: block;
+  margin: 0 auto;
+}
+
+#local-paris {
+  height: 720px;
+}
+
+.facade{
+  margin: 0 auto 150px auto;
+  background-image: url("../image/local-paris.jpg");
+  height: 700px;
+}
+
+.adress {
+  padding-top: 120px;
+  margin-left: 230px;
+  font-size: 25px;
+  font-family:  "Avenir","Helvetica","sans-serif";
+  color: white;
+}
+
+.adress strong{
+  font-size: 55px;
+  color: white;
+}
+
+.rejoindre {
+  font-family:  "Avenir","Helvetica","sans-serif";
+  margin-left: 230px;
+  font-size: 16px;
+  color: white;
+  padding-top: 20px;
+    cursor:pointer;
+}
+
+.situation {
+  font-family:  "Avenir","Helvetica","sans-serif";
+  margin-left: 230px;
+  font-size:19px;
+  color: white;
+  padding-top: 19px;
+}
+.meetup {
+  font-family:  "Avenir","Helvetica","sans-serif";
+  font-size: 15px;
+  color: white;
+  border:1px solid white;
+  border-radius: 5px;
+  width: 350px;
+  margin-left: 230px;
+  padding-left: 20px;
+  height: 50px;
+  width: 400px;
+  cursor:pointer;
+}
+
+#go{
+  color:white;
+  background-color: #D23333;
+  border-radius:1px 5px 5px 1px;
+  height: 82px;
+  width: 100px;
+  font-size: 20px;
+  font-family:  "Avenir","Helvetica","sans-serif";
+  text-align: center;
+  cursor:pointer;
+  border:none;
+  margin-left: -4px;
+}
+
+#pseudo{
+  height: 80px;
+  width: 200px;
+  border-radius:5px 1px 1px 5px;
+  background-color:white;
+  border:none;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+form{
+  text-align: center;
+}
+
+.tutovideo {
+  font-family:  "Avenir","Helvetica","sans-serif";
+  font-size: 30px;
+  text-align: center;
+
+}
+
+#wagon_logo{
+  height: 50px;
+  margin-top: 30px;
+}
+
+.logo-wagon{
+  text-align: center;
+}
+
+.menu_fin ul {
+  list-style-type: none;
+  float: left;
+  font-size:16px;
+  font-family:  "Avenir","Helvetica","sans-serif";
+  line-height: 28px;
+  margin-top: 45px auto;
+  margin-left: 80px;
+
+
+
+}
+strong {
+  text-transform: uppercase;
+}
+
+.menu_fin ul li a{
+  text-decoration:none;
+  color:gray;
+  font-size:16px;
+  font-family:  "Avenir","Helvetica","sans-serif";
+
+}
+
+#bulle {
+  background-color: #D23333;
+  padding:13px;
+  border-radius:50%;
+  box-shadow: 1px 3px 8px gray;
+
+
+
+}
+.icone_bulle {
+  position: fixed;
+  right: 17px;
+  bottom: 15px;
+
+
+}
